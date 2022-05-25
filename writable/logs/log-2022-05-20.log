@@ -1,0 +1,38 @@
+CRITICAL - 2022-05-20 23:01:29 --> Undefined property: stdClass::$first_name
+#0 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(76): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Undefined prope...', 'C:\\wamp64\\www\\a...', 76, Array)
+#1 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(66): App\Controllers\BaseController->global_data()
+#2 C:\wamp64\www\adventure-life\system\CodeIgniter.php(810): App\Controllers\BaseController->initController(Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), Object(CodeIgniter\Log\Logger))
+#3 C:\wamp64\www\adventure-life\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-05-20 23:02:44 --> Invalid file: pages/dashboard/index.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/dashboard...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('pages/dashboard...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(109): view('pages/dashboard...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(38): App\Controllers\BaseController->template('dashboard/index', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-20 23:03:37 --> Invalid file: pages/dashboard/index.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/dashboard...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('pages/dashboard...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(109): view('pages/dashboard...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(38): App\Controllers\BaseController->template('dashboard/index', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-20 23:03:38 --> Invalid file: pages/dashboard/index.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/dashboard...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('pages/dashboard...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(109): view('pages/dashboard...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(38): App\Controllers\BaseController->template('dashboard/index', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->dashboard()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

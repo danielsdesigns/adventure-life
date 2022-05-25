@@ -1,0 +1,24 @@
+body {
+    background: #efefef;
+}
+
+.header {
+    width: 100%;
+    background: #333;
+    padding: 20px 40px;
+    overflow: hidden;
+    color: #fff;
+}
+
+.header a {
+    color: #00bbff;
+}
+
+#calendar {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 100px;
+    background: #fff;
+    padding: 10px;
+}

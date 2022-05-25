@@ -1,0 +1,120 @@
+CRITICAL - 2022-05-19 04:27:04 --> Invalid file: templates/header.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(106): view('templates/heade...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(10): App\Controllers\BaseController->template('login/login', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-19 04:27:33 --> Invalid file: templates/header.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(106): view('templates/heade...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(10): App\Controllers\BaseController->template('login/login', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-19 04:27:34 --> Invalid file: templates/header.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(106): view('templates/heade...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(10): App\Controllers\BaseController->template('login/login', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-19 04:27:34 --> Invalid file: templates/header.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(106): view('templates/heade...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(10): App\Controllers\BaseController->template('login/login', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-19 04:27:35 --> Invalid file: templates/header.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(106): view('templates/heade...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(10): App\Controllers\BaseController->template('login/login', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-19 04:27:35 --> Invalid file: templates/header.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(106): view('templates/heade...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(10): App\Controllers\BaseController->template('login/login', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-19 04:27:35 --> Invalid file: templates/header.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('templates/heade...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('templates/heade...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(106): view('templates/heade...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(10): App\Controllers\BaseController->template('login/login', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-19 04:27:54 --> Invalid file: pages/login/login.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/login/log...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('pages/login/log...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(109): view('pages/login/log...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(10): App\Controllers\BaseController->template('login/login', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-19 04:27:55 --> Invalid file: pages/login/login.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/login/log...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('pages/login/log...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(109): view('pages/login/log...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(10): App\Controllers\BaseController->template('login/login', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-19 04:27:55 --> Invalid file: pages/login/login.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/login/log...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('pages/login/log...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(109): view('pages/login/log...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(10): App\Controllers\BaseController->template('login/login', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-19 04:38:10 --> Invalid file: pages/login/login.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/login/log...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('pages/login/log...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(109): view('pages/login/log...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(10): App\Controllers\BaseController->template('login/login', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-05-19 04:38:10 --> Invalid file: pages/login/login.php
+#0 C:\wamp64\www\adventure-life\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('pages/login/log...')
+#1 C:\wamp64\www\adventure-life\system\Common.php(1089): CodeIgniter\View\View->render('pages/login/log...', Array, true)
+#2 C:\wamp64\www\adventure-life\app\Controllers\BaseController.php(109): view('pages/login/log...', Array)
+#3 C:\wamp64\www\adventure-life\app\Controllers\Home.php(10): App\Controllers\BaseController->template('login/login', Array)
+#4 C:\wamp64\www\adventure-life\system\CodeIgniter.php(832): App\Controllers\Home->index()
+#5 C:\wamp64\www\adventure-life\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#6 C:\wamp64\www\adventure-life\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\wamp64\www\adventure-life\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
